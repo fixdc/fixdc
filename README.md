@@ -1,14 +1,15 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=fixdc.visitor-badge)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fikri+Aidhil+Setiansyah!;" />
 </h1>
 
 <h3 align="center">A Fullstack Web Developer, Graphic Designer, Video Editor From Indonesia</h3>
 
-<br/>
-
 <div align="center">
  
 🔭 I’m currently Learn at **SMKN 65 JAKARTA**
+<br>
+👌 They Call me Quizizz **Conqueror**
  </div>
  
 <div align="center"> 
