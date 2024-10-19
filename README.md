@@ -7,7 +7,7 @@
 
 <div align="center">
  
-🔭 I’m currently Learn at **SMKN 65 JAKARTA**
+🔭 I’m currently Learn at **Pamulang University**
 <br>
 👌 They Call me Quizizz **Conqueror**
  </div>
